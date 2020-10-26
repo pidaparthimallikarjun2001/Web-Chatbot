@@ -1,0 +1,21 @@
+body {
+    background-color: lightgray;
+    font-size: 20px;
+}
+#heading {
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+div, p{
+    text-align: center;
+}
+#userBox {
+    height: 50px;
+    width: 500px;
+    border-radius: 20px;
+    outline: none;
+}
+
+
+
